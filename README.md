@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on my master's thesis in Astrophysics and Cosmology
+- - 🌱 I’m currently learning how to use GitHub as a reliable tool to support my coding projects
+  - - 📫 How to reach me: benjamin.p.collins@icloud.com
 <!--
 **benjaminpcollins/benjaminpcollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
