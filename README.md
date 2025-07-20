@@ -47,7 +47,3 @@ You'll find here a mix of:
 - 🌍 [ORCID](https://orcid.org/0009-0005-9328-6283)
 - 💼 CV and references available for PhD applications
 
----
-
-> *"Somewhere, something incredible is waiting to be known."* — Carl Sagan<!--
-**benjaminpcollins/benjaminpcollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
