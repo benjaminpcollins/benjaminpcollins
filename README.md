@@ -25,7 +25,7 @@ I'm currently working on my MSc thesis using **JWST/MIRI** photometry in the COS
 
 ## 🌌 Interests
 
-- High-redshift galaxies and the ISM
+- Early galaxy formation and evolution
 - AGN feedback and its role in star formation quenching
 - Synergies between JWST and ground-based telescopes
 - Multiwavelength data analysis and astroinformatics
@@ -35,8 +35,7 @@ I'm currently working on my MSc thesis using **JWST/MIRI** photometry in the COS
 ## 📂 Repositories
 
 You'll find here a mix of:
-- Scripts and tools for astronomical image processing
-- Custom `Jupyter Notebooks` for SED fitting, photometry, and data visualisation
+- Custom `Jupyter Notebooks` for SED fitting, photometry, and astronomical image processing
 - Notes, templates, and utilities developed during my MSc and research projects
 
 ---
