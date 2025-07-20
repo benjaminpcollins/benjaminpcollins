@@ -27,7 +27,7 @@ I'm currently working on my MSc thesis using **JWST/MIRI** photometry in the COS
 
 - High-redshift galaxies and the ISM
 - AGN feedback and its role in star formation quenching
-- Synergies between JWST and ground-based telescopes in Chile
+- Synergies between JWST and ground-based telescopes
 - Multiwavelength data analysis and astroinformatics
 
 ---
