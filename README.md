@@ -8,10 +8,10 @@ I'm a Master's student in *Astrophysics and Cosmology* at the University of Bolo
 
 I'm currently working on my MSc thesis using **JWST/MIRI** photometry in the COSMOS field to study **dust emission in galaxies at cosmic noon**. My work includes:
 
-- Data handling and visualisation with `astropy`, `photutils`, and `APLpy`
+- Data handling and visualisation with `astropy` and `photutils`
 - Source detection, astrometry, masking, and background modelling
 - **SED fitting** using [`Prospector`](https://prospect.readthedocs.io/en/latest/)
-- Creating custom image cutouts with DS9 and Python automation
+- Creating custom RGB images of individual objects
 - Cross-matching catalogues across multiple surveys
 
 ---
@@ -27,16 +27,14 @@ I'm currently working on my MSc thesis using **JWST/MIRI** photometry in the COS
 
 - Early galaxy formation and evolution
 - AGN feedback and its role in star formation quenching
-- Synergies between JWST and ground-based telescopes
-- Multiwavelength data analysis and astroinformatics
+- How infrared imaging with JWST can complement and enhance ground-based observations
+- Multiwavelength data analysis
 
 ---
 
 ## 📂 Repositories
 
-You'll find here a mix of:
-- Custom `Jupyter Notebooks` for SED fitting, photometry, and astronomical image processing
-- Notes, templates, and utilities developed during my MSc and research projects
+You'll find here a mix of custom `Jupyter Notebooks` for SED fitting, photometry, and astronomical image processing
 
 ---
 
@@ -44,5 +42,5 @@ You'll find here a mix of:
 
 - 📧 benjamin.p.collins@icloud.com  
 - 🌍 [ORCID](https://orcid.org/0009-0005-9328-6283)
-- 💼 CV and references available for PhD applications
+- 💼 CV and references available
 
