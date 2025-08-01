@@ -42,5 +42,6 @@ You'll find here a mix of custom `Jupyter Notebooks` for SED fitting, photometry
 
 - 📧 benjamin.p.collins@icloud.com  
 - 🌍 [ORCID](https://orcid.org/0009-0005-9328-6283)
+- 💻 [LinkedIn](https://www.linkedin.com/in/benjamin-philip-collins-8001a0378)
 - 💼 CV and references available
 
