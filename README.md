@@ -1,12 +1,12 @@
-# 👋 Hi there, I'm Benjamin Philip Collins
+# 👋 Hi there, I'm Benjamin
 
-I'm a Master's student in *Astrophysics and Cosmology* at the University of Bologna, with a background in *Technical Physics* from TU Wien. My main research interests lie at the intersection of **observational cosmology**, **galaxy evolution**, and **infrared astronomy**, particularly using **JWST**, **HST**, and multiwavelength data from ground-based observatories.
+I'm a PhD student in Astrophysics at the Departamento de Astronomía (DAS) of Universidad de Chile. I previously completed my undergraduate studies in *Technical Physics* at the Vienna University of Technology and am holder of a Master's degree in *Astrophysics and Cosmology* from the University of Bologna. My primary research interests lie at the intersection of **observational cosmology**, **galaxy evolution**, and **infrared astronomy**. I am particularly interested in studying the formation and evolution of galaxies in the high-redshift universe using **JWST**, **HST**, and multiwavelength data from Chilean ground-based observatories.
 
 ---
 
 ## 🔭 Current Research
 
-I'm currently working on my MSc thesis using **JWST/MIRI** photometry in the COSMOS field to study **dust emission in galaxies at cosmic noon**. My work includes:
+I'm currently working on a **JWST/MIRI** photometry in the COSMOS field to study **dust emission in galaxies at cosmic noon**. My work includes:
 
 - Data handling and visualisation with `astropy` and `photutils`
 - Source detection, astrometry, masking, and background modelling
@@ -19,6 +19,7 @@ I'm currently working on my MSc thesis using **JWST/MIRI** photometry in the COS
 ## 🔬 Past Projects
 
 - **Bachelor's Thesis** at TU Wien on simulating surface sputtering of lunar analogue materials under solar wind ion bombardment.
+- **Master's Thesis** at the University of Bologna on using JWST to investigate dust energy balance in galaxies at cosmic noon.
 - Coursework and projects involving ALMA, La Silla, and Chandra data to explore molecular gas, AGN emission, and X-ray spectra.
 
 ---
@@ -40,7 +41,7 @@ You'll find here a mix of custom `Jupyter Notebooks` for SED fitting, photometry
 
 ## 📫 Contact
 
-- 📧 benjamin.p.collins@icloud.com  
+- 📧 bcollins@das.uchile.cl  
 - 🌍 [ORCID](https://orcid.org/0009-0005-9328-6283)
 - 💻 [LinkedIn](https://www.linkedin.com/in/benjamin-philip-collins-8001a0378)
 - 💼 CV and references available
